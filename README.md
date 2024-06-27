@@ -4,7 +4,7 @@
 
 
 
-## For my first Spring Boot Project: I utilize Spring Boot and MySQL to build a CRUD (Create, Read, Update, Delete) REST API for an Employee Management System.
+## Building my first Spring Boot Project: I utilize Spring Boot and MySQL to build a CRUD (Create, Read, Update, Delete) REST API for an Employee Management System.
 
 -	Add Employee
 -	Get Employee
