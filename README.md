@@ -14,6 +14,7 @@
 -	Add Department
 -	Get Department
 -	Delete Department
+-	Create custom exceptions and implement a global exception handler to handle errors and exceptions
 
  	<br/>
 
