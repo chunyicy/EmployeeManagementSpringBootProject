@@ -15,6 +15,7 @@
 -	Get Department
 -	Delete Department
 -	Create custom exceptions and implement a global exception handler to handle errors and exceptions
+-	Use DTO (Data Transfer Object) pattern for transferring data between the client and server components to send only the necessary data over the network and exclude sensitive information from being transferred to clients
 
  	<br/>
 
